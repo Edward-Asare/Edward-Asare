@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=490&height=44&lines=It's%20not%20over%20until%20life%20ends!" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=790&height=44&lines=My%20code%20works...%20most%20of%20the%20time%20on%20the%20first%20try" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -13,8 +13,7 @@
 I'm an aspiring cloud and software engineer currently learning through active project building
 
 🔭 &nbsp;I'm currently working on **An inventory webapp for a real estate company**  
-🌱 &nbsp;I'm currently learning **Full stack web development and cloud engineering**  
-⚡ &nbsp;Fun fact: **Curiosity is my adrenaline**
+🌱 &nbsp;I'm currently learning **Full stack web development and cloud engineering**
 
 ### 🛠️ Tech Stack
 
