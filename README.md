@@ -14,7 +14,7 @@ I'm an aspiring cloud and software engineer currently learning through active pr
 
 🔭 &nbsp;I'm currently working on **An inventory webapp for a real estate company**  
 🌱 &nbsp;I'm currently learning **Full stack web development and cloud engineering**  
-⚡ &nbsp;Fun fact: **I learn to build systems because of the fear of poverty**
+⚡ &nbsp;Fun fact: **Curiosity is my adrenaline**
 
 ### 🛠️ Tech Stack
 
